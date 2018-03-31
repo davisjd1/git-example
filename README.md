@@ -3,5 +3,5 @@ Example GIT repository
 
 ## Author
 
-Jason Davis
+Jason Davis  
 Student
